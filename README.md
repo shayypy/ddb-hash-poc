@@ -2,7 +2,7 @@
 
 Proof of concept solution for https://github.com/TheDiscDb/data/issues/177
 
-![](demo.mp4)
+https://github.com/user-attachments/assets/304760e8-179a-4404-adac-45abc395b02e
 
 ## Run
 
